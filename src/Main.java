@@ -9,7 +9,6 @@ public class Main {
   Teacher teacher2 = new Teacher("Mr. andualem",  "Physics");
   // Set values for attributes through the constructor
 
-  // Add Student and Teacher objects into the College object
   college.getStudents().add(student1);
   college.getStudents().add(student2);
   college.getTeachers().add(teacher1);
